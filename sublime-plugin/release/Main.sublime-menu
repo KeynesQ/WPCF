@@ -1,0 +1,25 @@
+
+	[
+		{
+			"caption": "Choose Program",
+			"id": "choosecompiledprogram",
+			"children":
+			[
+				{ "command": "loadprogram", "caption": "Load Program"},
+				{ "command": "resetprogram", "caption": "Reset"},
+				{ "caption": "-", "id": "end" },
+				{ "command": "pathconfig", "caption": "xapp", "args":{"path":"E:\\wwwtest\\xapp", "id":"keynes962109", "name":"xapp"}},
+{ "command": "pathconfig", "caption": "HDSpace[seleted]", "args":{"path":"E:\\program\\extension\\HDSpace", "id":"keynes724327", "name":"HDSpace"}},
+{ "command": "pathconfig", "caption": "test", "args":{"path":"E:\\test", "id":"keynes109402", "name":"test"}},
+{ "command": "pathconfig", "caption": "packageTools", "args":{"path":"E:\\program\\extension\\packageTools", "id":"keynes271640", "name":"packageTools"}},
+{ "command": "pathconfig", "caption": "FE-Package", "args":{"path":"C:\\Users\\qukuilin\\AppData\\Roaming\\Sublime Text 2\\Packages\\FE-Package", "id":"keynes695184", "name":"FE-Package"}},
+{ "command": "pathconfig", "caption": "Default", "args":{"path":"C:\\Users\\qukuilin\\AppData\\Roaming\\Sublime Text 2\\Packages\\Default", "id":"keynes658532", "name":"Default"}},
+{ "command": "pathconfig", "caption": "test2", "args":{"path":"E:\\test2", "id":"keynes36814", "name":"test2"}},
+{ "command": "pathconfig", "caption": "360wp", "args":{"path":"C:\\Users\\qukuilin\\AppData\\Roaming\\360wp\\User Data\\360wp", "id":"keynes161992", "name":"360wp"}},
+{ "command": "pathconfig", "caption": "Weixin", "args":{"path":"E:\\Weixin", "id":"keynes67449", "name":"Weixin"}},
+{ "command": "pathconfig", "caption": "test3", "args":{"path":"E:\\test3", "id":"keynes157749", "name":"test3"}},
+				{ "caption": "-", "id": "end" }
+			]
+		}
+	]
+	

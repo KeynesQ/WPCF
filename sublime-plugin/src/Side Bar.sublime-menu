@@ -1,0 +1,11 @@
+[
+	{ "caption": "-", "id": "end" },
+	{ 
+		"caption": "Library",
+		"children":
+		[
+			{"caption":"jssdk", "command":"copyjssdk"}
+		]
+	},
+	{ "caption": "-", "id": "end" }
+]

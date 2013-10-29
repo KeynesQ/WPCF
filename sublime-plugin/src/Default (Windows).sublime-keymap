@@ -1,0 +1,11 @@
+[
+	{
+		"keys": ["ctrl+alt+c"],
+		"command": "fepackagecombine"
+	},
+
+	{
+		"keys": ["ctrl+shift+alt+p"],
+		"command": "fepackagemake"
+	}
+]

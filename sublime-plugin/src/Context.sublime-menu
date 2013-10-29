@@ -1,0 +1,23 @@
+[
+	{ "caption": "-", "id": "fepackage" },
+
+	{ "command": "fepackagecombine", "caption":"Insert tag to combine[插入合并标签]" },
+
+	{ "command": "fepackagemake", "caption":"Make program to online[编译项目上线]","args":{"compress":"true"}  },
+
+	{ "command": "fepackagemake", "caption":"Make program to test[编译项目测试]","args":{"compress":"false"} },
+
+	{ "command": "pngcompress", "caption":"PNGCompress[PNG图片压缩]" },
+
+	{ "command": "fepackagebuild", "caption":"Make program to build[新建项目结构]" },
+
+	{ "command": "fepackageconfig", "caption":"Configure[项目编译配置]" },
+
+	{ "command": "fepackagelog", "caption":"Show Log today[查看当天打包日志]" },
+
+	{ "command": "fepackagehelp", "caption":"Show Helpinfo[查看帮助]" },
+
+	{ "command": "helpfull", "caption":"About WPC[Web-app Package & Compress]" },
+
+	{ "caption": "-", "id": "end" }
+]

@@ -1,0 +1,356 @@
+01:39:58		Remove forder (output)
+01:39:58		Create forder (output)
+01:39:58		Forder (output) is exist
+01:46:22		Remove forder (output)
+01:46:23		Create forder (output)
+01:46:23		Forder (output) is exist
+01:49:12		Remove forder (output)
+01:49:12		Create forder (output)
+01:49:12		Forder (output) is exist
+01:49:31		Remove forder (output)
+01:49:32		Create forder (output)
+01:49:32		Forder (output) is exist
+01:49:32		Copy to dir : output
+01:50:46		Remove forder (output)
+01:50:47		Create forder (output)
+01:50:47		Forder (output) is exist
+01:50:47		Copy to dir : output
+01:51:49		Remove forder (output)
+01:51:49		Create forder (output)
+01:51:49		Forder (output) is exist
+01:51:50		Copy to dir : output
+01:52:06		Remove forder (output)
+01:52:06		Create forder (output)
+01:52:06		Forder (output) is exist
+01:52:07		Copy to dir : output
+01:52:07		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:52:14		Remove forder (output)
+01:52:15		Create forder (output)
+01:52:15		Forder (output) is exist
+01:52:15		Copy to dir : output
+01:52:15		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:52:15		Running in manifest, please wait!
+01:52:25		Remove forder (output)
+01:52:25		Create forder (output)
+01:52:25		Forder (output) is exist
+01:52:25		Copy to dir : output
+01:52:26		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:52:26		Running in manifest, please wait!
+01:52:26		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:53:49		Remove forder (output)
+01:53:50		Create forder (output)
+01:53:50		Forder (output) is exist
+01:53:50		Copy to dir : output
+01:53:50		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:53:50		Running in manifest, please wait!
+01:53:50		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:54:20		Remove forder (output)
+01:54:21		Create forder (output)
+01:54:21		Forder (output) is exist
+01:54:22		Copy to dir : output
+01:54:22		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:54:22		Running in manifest, please wait!
+01:54:22		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+01:54:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+01:54:24		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+01:54:25		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+01:54:25		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+01:54:25		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+01:54:25		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+01:54:25		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+01:55:20		Remove forder (output)
+01:55:20		Create forder (output)
+01:55:20		Forder (output) is exist
+01:55:20		Copy to dir : output
+01:55:20		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:55:20		Running in manifest, please wait!
+01:55:20		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+01:55:21		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+01:55:22		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+01:55:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+01:55:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+01:55:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+01:55:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+01:55:23		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+01:57:34		Remove forder (output)
+01:57:35		Create forder (output)
+01:57:35		Forder (output) is exist
+01:57:35		Copy to dir : output
+01:57:36		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:57:36		Running in manifest, please wait!
+01:57:36		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:57:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+01:57:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+01:57:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+01:57:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+01:57:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+01:57:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+01:57:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+01:58:47		Remove forder (output)
+01:58:49		Create forder (output)
+01:58:49		Forder (output) is exist
+01:58:49		Copy to dir : output
+01:58:49		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+01:58:49		Running in manifest, please wait!
+01:58:49		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+01:58:49		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+01:58:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+01:58:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+01:58:52		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+01:58:52		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+01:58:52		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+02:06:33		Remove forder (output)
+02:06:33		Create forder (output)
+02:06:33		Forder (output) is exist
+02:06:34		Copy to dir : output
+02:06:34		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+02:06:34		Running in manifest, please wait!
+02:06:34		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+02:06:36		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+02:06:37		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+02:06:38		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+02:06:39		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+02:06:40		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+02:06:40		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+02:06:41		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+02:06:42		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+02:06:42		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+02:06:43		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+02:06:44		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+02:06:45		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+02:06:45		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+02:06:46		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+02:06:47		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+02:06:48		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+02:06:48		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+02:09:00		Remove forder (output)
+02:09:01		Create forder (output)
+02:09:01		Forder (output) is exist
+E:\program\extension\HDSpace\dev\src\config.js
+E:\program\extension\HDSpace\dev\src\crosswhite.html
+E:\program\extension\HDSpace\dev\src\favicon.ico
+E:\program\extension\HDSpace\dev\src\HDSpace.html
+E:\program\extension\HDSpace\dev\src\Jump.html
+E:\program\extension\HDSpace\dev\src\v2Jump.html
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk.js
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk2.js
+E:\program\extension\HDSpace\dev\src\lib\aceme.js
+E:\program\extension\HDSpace\dev\src\lib\storage.js
+E:\program\extension\HDSpace\dev\src\lib\tangram-hdspace.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-event.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-template.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-yayaevent.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-1.5.2.1.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-custom-full-source.js
+E:\program\extension\HDSpace\dev\src\modules\controller.js
+E:\program\extension\HDSpace\dev\src\modules\datamodel.js
+E:\program\extension\HDSpace\dev\src\modules\display.js
+E:\program\extension\HDSpace\dev\src\modules\videoshandle.js
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\default_play.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\leftbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loading.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loginbg.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\rightbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\unlogin.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\videonull.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\icon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\login.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\treeicon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\styles\HDSpace.css
+复制了 31 个文件
+02:09:01		Copy to dir : output
+02:09:02		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+02:09:02		Running in manifest, please wait!
+02:09:02		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+02:09:02		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+02:09:03		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+02:09:04		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+02:09:05		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+02:09:05		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+02:09:06		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+02:09:07		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+02:09:07		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+02:09:08		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+02:09:09		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+02:09:10		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+02:09:11		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+02:09:12		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+02:09:12		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+02:09:13		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+02:09:13		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+02:09:14		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
+02:09:46		Remove forder (output)
+02:09:46		Create forder (output)
+02:09:46		Forder (output) is exist
+E:\program\extension\HDSpace\dev\src\config.js
+E:\program\extension\HDSpace\dev\src\crosswhite.html
+E:\program\extension\HDSpace\dev\src\favicon.ico
+E:\program\extension\HDSpace\dev\src\HDSpace.html
+E:\program\extension\HDSpace\dev\src\Jump.html
+E:\program\extension\HDSpace\dev\src\v2Jump.html
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk.js
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk2.js
+E:\program\extension\HDSpace\dev\src\lib\aceme.js
+E:\program\extension\HDSpace\dev\src\lib\storage.js
+E:\program\extension\HDSpace\dev\src\lib\tangram-hdspace.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-event.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-template.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-yayaevent.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-1.5.2.1.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-custom-full-source.js
+E:\program\extension\HDSpace\dev\src\modules\controller.js
+E:\program\extension\HDSpace\dev\src\modules\datamodel.js
+E:\program\extension\HDSpace\dev\src\modules\display.js
+E:\program\extension\HDSpace\dev\src\modules\videoshandle.js
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\default_play.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\leftbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loading.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loginbg.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\rightbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\unlogin.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\videonull.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\icon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\login.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\treeicon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\styles\HDSpace.css
+复制了 31 个文件
+02:09:47		Copy to dir : output
+02:09:47		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+02:09:47		Running in manifest, please wait!
+02:09:47		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+02:12:35		Remove forder (output)
+02:12:36		Create forder (output)
+02:12:36		Forder (output) is exist
+E:\program\extension\HDSpace\dev\src\config.js
+E:\program\extension\HDSpace\dev\src\crosswhite.html
+E:\program\extension\HDSpace\dev\src\favicon.ico
+E:\program\extension\HDSpace\dev\src\HDSpace.html
+E:\program\extension\HDSpace\dev\src\Jump.html
+E:\program\extension\HDSpace\dev\src\v2Jump.html
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk.js
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk2.js
+E:\program\extension\HDSpace\dev\src\lib\aceme.js
+E:\program\extension\HDSpace\dev\src\lib\storage.js
+E:\program\extension\HDSpace\dev\src\lib\tangram-hdspace.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-event.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-template.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-yayaevent.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-1.5.2.1.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-custom-full-source.js
+E:\program\extension\HDSpace\dev\src\modules\controller.js
+E:\program\extension\HDSpace\dev\src\modules\datamodel.js
+E:\program\extension\HDSpace\dev\src\modules\display.js
+E:\program\extension\HDSpace\dev\src\modules\videoshandle.js
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\default_play.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\leftbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loading.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loginbg.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\rightbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\unlogin.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\videonull.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\icon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\login.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\treeicon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\styles\HDSpace.css
+复制了 31 个文件
+02:12:36		Copy to dir : output
+02:12:36		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+02:12:36		Running in manifest, please wait!
+02:12:36		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+02:12:43		Remove forder (output)
+02:12:43		Create forder (output)
+02:12:43		Forder (output) is exist
+E:\program\extension\HDSpace\dev\src\config.js
+E:\program\extension\HDSpace\dev\src\crosswhite.html
+E:\program\extension\HDSpace\dev\src\favicon.ico
+E:\program\extension\HDSpace\dev\src\HDSpace.html
+E:\program\extension\HDSpace\dev\src\Jump.html
+E:\program\extension\HDSpace\dev\src\v2Jump.html
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk.js
+E:\program\extension\HDSpace\dev\src\jssdk\jssdk2.js
+E:\program\extension\HDSpace\dev\src\lib\aceme.js
+E:\program\extension\HDSpace\dev\src\lib\storage.js
+E:\program\extension\HDSpace\dev\src\lib\tangram-hdspace.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-event.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-template.js
+E:\program\extension\HDSpace\dev\src\lib\engine\ace-yayaevent.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-1.5.2.1.js
+E:\program\extension\HDSpace\dev\src\lib\tangram\tangram-custom-full-source.js
+E:\program\extension\HDSpace\dev\src\modules\controller.js
+E:\program\extension\HDSpace\dev\src\modules\datamodel.js
+E:\program\extension\HDSpace\dev\src\modules\display.js
+E:\program\extension\HDSpace\dev\src\modules\videoshandle.js
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\default_play.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\leftbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loading.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\loginbg.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\rightbg.gif
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\unlogin.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\videonull.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\icon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\login.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\images\icons\treeicon.png
+E:\program\extension\HDSpace\dev\src\resources\themes\default\styles\HDSpace.css
+复制了 31 个文件
+02:12:44		Copy to dir : output
+02:12:44		Files need to cached :HDSpace\.html|HDSpace\.js|resources\/themes\/default\/images\/loginbg\.png|resources\/themes\/default\/images\/leftbg\.png|resources\/themes\/default\/images\/default_play\.png|resources\/themes\/default\/images\/rightbg\.png|resources\/themes\/default\/images\/icons\/icon\.png|resources\/themes\/default\/images\/icons\/login\.png|resources\/themes\/default\/images\/icons\/treeicon\.png|resources\/themes\/default\/images\/style\/main\.css
+02:12:44		Running in manifest, please wait!
+02:12:44		Cache file ====> E:\program\extension\HDSpace\dev\output\HDSpace.manifest
+02:12:44		 Compress succssfull on E:\program\extension\HDSpace\dev\output\config.js
+02:12:45		 Compress succssfull on E:\program\extension\HDSpace\dev\output\HDSpace.js
+02:12:46		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk.js
+02:12:46		 Compress succssfull on E:\program\extension\HDSpace\dev\output\jssdk\jssdk2.js
+02:12:47		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\aceme.js
+02:12:48		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\storage.js
+02:12:49		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram-hdspace.js
+02:12:49		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-event.js
+02:12:50		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-template.js
+02:12:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\engine\ace-yayaevent.js
+02:12:51		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-1.5.2.1.js
+02:12:52		 Compress succssfull on E:\program\extension\HDSpace\dev\output\lib\tangram\tangram-custom-full-source.js
+02:12:53		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\controller.js
+02:12:53		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\datamodel.js
+02:12:54		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\display.js
+02:12:55		 Compress succssfull on E:\program\extension\HDSpace\dev\output\modules\videoshandle.js
+02:12:55		 Compress succssfull on E:\program\extension\HDSpace\dev\output\resources\themes\default\styles\HDSpace.css
