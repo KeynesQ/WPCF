@@ -16,8 +16,8 @@ Last Update 2013/01/30
 
 ====
 
-使用说明：
-	1、只需要配置一次configure.conf文件就能帮助你实现这些功能。* 为必填项
+*** 使用说明：
+	* 1、只需要配置一次configure.conf文件就能帮助你实现这些功能。* 为必填项
 		compile属性里分两个属性分别为make和build属性
 		make属性里主要配置编译打包需要的选项
 			-base {dict} 基本配置
@@ -35,7 +35,7 @@ Last Update 2013/01/30
 			-jssdk {boolean} 是否需要jssdk文件
 			-forder {tuple} 需要建立的文件目录结构 包含子目录的目录节点以字典表示
 		注：dict类型类似于JavaScript里的JSON对象，tuple类型类似于JavaScript里的array数组
-	2、工具使用方法（目前采用命令行下运行）
+	* 2、工具使用方法（目前采用命令行下运行）
 		1) 首先将目录从svn上down下来或者在我的FE站点上down下来,然后解压或拷贝到你的项目目录与[src]目录同级
 			SVN:
 			URL:
@@ -52,7 +52,7 @@ Last Update 2013/01/30
 			[build]         : Build new program.
 			[H or help]     : Help of this tool.
 			============================================
-	3、文件合并方法
+	* 3、文件合并方法
 		如果需要在代码中做局部文件合并，可将需要合并的文件代码写在如下的代码区块内
 		ex:
 			<!-- Rule:[name|async] identification -->
@@ -62,7 +62,7 @@ Last Update 2013/01/30
 			<!-- combineend -->
 		demo中action是合并之后的文件名，用竖线分隔的后面为是否异步加载的选项（false则为同步，合并之后会嵌入合并的文件代码）。
 
-更新说明：
+*** 更新说明：
 	[2013/01/28]
 	1、增加统一配置文件
 	2、增加是否需要jssdk文件 [需要访问内网]
